@@ -20,4 +20,8 @@ void lisibb();
 // 李四
 void lisiccc();
 
+
+// 李四  xxx
+void   lisi_xxxx();
+
 }
