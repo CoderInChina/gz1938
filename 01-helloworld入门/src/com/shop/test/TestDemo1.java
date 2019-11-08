@@ -16,4 +16,8 @@ public interface TestDemo1 {
 	// 李四下贱
 void lisibb();
 
+
+// 李四
+void lisiccc();
+
 }
