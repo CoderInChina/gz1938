@@ -20,5 +20,13 @@ public interface TestDemo1 {
 	 */
 	void  testUser();
 	
+	
+	
+	/***
+	 * 
+	 * 张三添加的一个zhangsanXX 方法
+	 */
+	void zhangsanXX();
+	
 
 }
