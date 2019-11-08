@@ -6,11 +6,19 @@ public interface TestDemo1 {
 	void addUser();
 	
 	
+
 	/** 
 	 * 这是添加在主分支 中的方法
 	 * 
 	 */
 	void  masterBrank();
+
+	
+	
+	/** 该方法添加在 test-brank 中/
+	 * 
+	 */
+	void  testUser();
 	
 
 }
