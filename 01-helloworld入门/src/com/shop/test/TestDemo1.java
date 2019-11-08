@@ -21,8 +21,7 @@ public interface TestDemo1 {
 	void  testUser();
 	
 	
-	
-	
+
 	/***
 	 * 
 	 *  李四 添加一个 lisiXXXX 方法
@@ -30,6 +29,12 @@ public interface TestDemo1 {
 	void lisiXXXX();
 	
 	
+
+	/***
+	 * 
+	 * 张三添加的一个zhangsanXX 方法
+	 */
+	void zhangsanXX();
 	
 
 }
