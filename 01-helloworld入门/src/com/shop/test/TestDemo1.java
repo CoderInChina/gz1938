@@ -20,5 +20,16 @@ public interface TestDemo1 {
 	 */
 	void  testUser();
 	
+	
+	
+	
+	/***
+	 * 
+	 *  李四 添加一个 lisiXXXX 方法
+	 */
+	void lisiXXXX();
+	
+	
+	
 
 }
