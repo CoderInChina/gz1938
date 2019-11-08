@@ -11,5 +11,9 @@ public interface TestDemo1 {
 	
 	// 张三添加了aa 
 	void aa();
+	
+	
+	// 李四下贱
+void lisibb();
 
 }
